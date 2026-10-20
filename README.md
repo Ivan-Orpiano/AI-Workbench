@@ -1,6 +1,6 @@
 # AI Engineering Workbench
 
-> Coding the mathematical and statistical foundations of AI engineering — from scratch.
+> Coding the mathematical and statistical foundations of AI engineering — from scratch. 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
